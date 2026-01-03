@@ -1,1 +1,1 @@
-# disease_prediction
+# human_resource_management_system
