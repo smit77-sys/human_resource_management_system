@@ -1,0 +1,11 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/leave/page": "app/leave/page.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js",
+  "/payroll/page": "app/payroll/page.js",
+  "/signup/page": "app/signup/page.js",
+  "/attendance/page": "app/attendance/page.js"
+}
